@@ -1,0 +1,6 @@
+__name__ = 'Library catalogue'
+__author__ = 'Daniel Astaptscev'
+__version__ = 'v0.1'
+__license__ = 'MIT'
+__email__ = 'iteleishen@gmail.com'
+__git__ = 'github.com/Daniel-Astaptscev/'
