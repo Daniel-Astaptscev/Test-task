@@ -1,0 +1,11 @@
+03-12-2024 19:03 == AttributeError: object has no attribute
+03-12-2024 19:05 == AttributeError: object has no attribute
+03-12-2024 19:15 == AttributeError: object has no attribute
+03-12-2024 19:15 == ValueError: invalid literal for int()
+03-12-2024 19:20 == ValueError: invalid literal for int()
+03-12-2024 19:20 == AttributeError: object has no attribute
+03-12-2024 19:20 == AttributeError: object has no attribute
+03-12-2024 19:20 == AttributeError: object has no attribute
+03-12-2024 19:20 == ValueError: invalid literal for int()
+03-12-2024 21:35 == ValueError: invalid literal for int()
+03-12-2024 21:37 == ValueError: invalid literal for int()
